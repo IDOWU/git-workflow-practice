@@ -1,4 +1,4 @@
-chrome# Team Config Dashboard
+# Team Config Dashboard
 
 A web dashboard for displaying team configuration.
 
