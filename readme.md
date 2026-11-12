@@ -4,7 +4,8 @@ A web dashboard for displaying team configuration.
 
 ## Run locally
 
-Open index2.html in firefox.
+
+Open index2.html in firefox and chrome
 
 ## Main files
 
