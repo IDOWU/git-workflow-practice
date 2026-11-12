@@ -1,10 +1,10 @@
-# Team Config Dashboard
+chrome# Team Config Dashboard
 
 A web dashboard for displaying team configuration.
 
 ## Run locally
 
-Open index2.html in a web browser.
+Open index2.html in chrome.
 
 ## Main files
 
