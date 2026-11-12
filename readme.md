@@ -14,6 +14,8 @@ Open index2.html in firefox and chrome
 
 ## Contributing
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the full contribution workflow.
+
 1. Create a branch from main for your task.
 2. Make and check your changes.
 3. Stage and commit the relevant files.
